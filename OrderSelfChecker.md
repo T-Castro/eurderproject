@@ -17,9 +17,9 @@ Which choices did you make? (List your choices below, remove what is not relevan
  - Are you working test-first?
  > ....
  - Do you have security enabled?
- > ....
+ /
  - Do you have logging enabled?
- > ....
+ /
  - What happens if the firstname contains numbers? Is this allowed?
  > ....
  - In which currency are the prices?
@@ -35,7 +35,7 @@ Which choices did you make? (List your choices below, remove what is not relevan
  - [x] Be awesome
  - [ x] Setup Github
  - [ x] Setup Jenkins
- - [ ] Basic setup / skeleton for Spring Boot & Maven
+ - [ x] Basic setup / skeleton for Spring Boot & Maven
  - [ ] I have my first REST Controller ready
  - [ x] I commit/push my code on a regular basis
  - [ ] Swagger is enabled
