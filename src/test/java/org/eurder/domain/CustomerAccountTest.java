@@ -4,14 +4,12 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CustomerTest {
+class CustomerAccountTest {
 
-    @Test
-    void createAnAccount() {
-    }
 
     @Test
     void orderAnItem() {
+
     }
 
     @Test
