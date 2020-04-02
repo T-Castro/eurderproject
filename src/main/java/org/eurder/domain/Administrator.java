@@ -1,19 +1,28 @@
 package org.eurder.domain;
 
-import org.eurder.repositories.CustomerRepository;
+import org.eurder.repositories.ItemsRepository;
 import org.springframework.stereotype.Component;
+
+import java.lang.reflect.Array;
 
 @Component
 public class Administrator {
 
     public Administrator() {
-    }
-
-    public void addItem() {
 
     }
 
-    public void updateItem(){
+    //
+
+   /* public Item addItem(Item itemToAdd) {
+         listOfItems= new Ar
+        listOfAllItems.add(itemToAdd);
+        return itemToAdd;
+    }*/
+
+
+
+   /* public void updateItem(){
 
     }
 
@@ -31,5 +40,5 @@ public class Administrator {
 
     public void getOverviewOfItemsInNeedOfStockResupply(){
 
-    }
+    }*/
 }
