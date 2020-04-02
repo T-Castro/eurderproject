@@ -10,9 +10,10 @@ As a developer you have to make choices constantly.
 Choices about time efficiency and quality, choices about your architecture, choices about functionality.
 Which choices did you make? (List your choices below, remove what is not relevant)
  - What is your focus when working on Örder?
- > ....
+ > Trying to focus on getting the bigger picture of a project on my own cause I kind of just went along in the DigibookyProject and I wasn't involved in the whole set up and every step of the project. 
+>So I want to see which things I can set up from scratch by myself. 
  - Do you have a single-module maven project? Or a multi-module maven project?
- > ....
+ > I did started experimenting with a multi module like our Digibookyproject- But I struggled with it and Karel advised me to start with a single module project- so I did
  - Are you working test-first?
  > ....
  - Do you have security enabled?
@@ -32,11 +33,11 @@ Which choices did you make? (List your choices below, remove what is not relevan
  - ....
 ## Progress Story 0 (project setup & technical requirements)
  - [x] Be awesome
- - [ ] Setup Github
- - [ ] Setup Jenkins
+ - [ x] Setup Github
+ - [ x] Setup Jenkins
  - [ ] Basic setup / skeleton for Spring Boot & Maven
  - [ ] I have my first REST Controller ready
- - [ ] I commit/push my code on a regular basis
+ - [ x] I commit/push my code on a regular basis
  - [ ] Swagger is enabled
 ### Comments:
 ## Story 1
