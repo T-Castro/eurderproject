@@ -1,6 +1,6 @@
-package DomainResources;
+package org.eurder.domain;
 
-import Repositories.CustomerRepository;
+import org.eurder.repositories.CustomerRepository;
 
 import java.awt.*;
 
@@ -17,9 +17,8 @@ public class Administrator {
 
     }
 
-    public List viewAllCustomers(){
-        List listOfAllCustomers= new List();
-        return listOfAllCustomers;
+    public CustomerRepository viewAllCustomers(){
+        return null;
     }
 
     public CustomerRepository viewASingleCustomer(){
