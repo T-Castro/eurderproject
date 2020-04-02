@@ -2,8 +2,6 @@ package org.eurder.domain;
 
 import org.eurder.repositories.CustomerRepository;
 
-import java.awt.*;
-
 public class Administrator {
 
     public Administrator() {
