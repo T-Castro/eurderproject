@@ -1,7 +1,9 @@
 package org.eurder.domain;
 
 import org.eurder.repositories.CustomerRepository;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Administrator {
 
     public Administrator() {

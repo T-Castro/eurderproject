@@ -1,7 +1,9 @@
 package org.eurder.domain;
 
 import org.eurder.repositories.ItemsRepository;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Items {
 
     private final String nameOfItem;

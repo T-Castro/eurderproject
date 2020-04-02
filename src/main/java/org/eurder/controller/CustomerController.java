@@ -5,6 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(path ="" )
-public class Controller {
-    private Controller controller;
+public class CustomerController {
+    private CustomerController controller;
 }
